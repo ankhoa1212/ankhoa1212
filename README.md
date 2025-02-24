@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, World! My name is Austin and I like to learn and create cool things.
 
 <!--
 **ankhoa1212/ankhoa1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
