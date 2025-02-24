@@ -1,6 +1,9 @@
 ## Hello, World!
 My name is Austin and I like to learn and create cool things.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankhoa1212&hide_progress=true&layout=compact&langs_count=12&theme=transparent)
+
+GitHub Stats from [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ankhoa1212/ankhoa1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
